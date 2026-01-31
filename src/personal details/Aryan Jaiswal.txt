@@ -1,0 +1,75 @@
+Aryan Jaiswal
+https://github.com/aryanjais
+https://www.linkedin.com/in/aryanjais
+Professional Summary
+Email: aryanj9889@gmail.com
+Mobile: +91-979-551-1838
+Hyderabad, Telangana
+Frontend Developer with hands-on experience building responsive, high-performance web applications using React,
+JavaScript, TypeScript, and modern UI frameworks like MUI. Skilled in translating complex UX designs into interactive,
+scalable interfaces with a focus on performance optimization. Proven ability to collaborate in agile teams, integrate APIs,
+and deliver production-grade solutions.
+Technical Skills
+• Frontend Technologies: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, MUI (Material UI)
+• State Management: React Hooks, Context API
+• Tools & Platforms: Git, VS Code, Chrome DevTools, Firebase, REST APIs, Version Control
+• Performance & Optimization: Responsive Design, Accessibility Standards, Web Performance, Performance
+Debugging, Lighthouse Optimization
+• Development Practices: Agile Development, Code Reviews, Unit Testing
+Work Experience
+• PeopleLink Unified Communications Pvt. Ltd. Instavc Technologies Pvt. Ltd.
+Associate Software Engineer
+Hyderabad, India
+July 2023– January 2026
+◦ Developed and maintained scalable web applications for Inlynk, a Business Growth & Employee Management
+Platform using React, TypeScript, MUI, and Firebase.
+◦ Designed and implemented News Feed with social engagement features, post scheduling, and filtering for content
+from connections.
+◦ Built real-time Collaboration Tools including messaging, voice/video calls, chat filtering, mute, block/unblock, and
+broadcast functionality.
+◦ Created a Media Drive system with file management, folder structure, sharing, zipping, and white-label template
+creation.
+◦ Developed a Resource Library for sharing multimedia content such as videos, articles, podcasts across connected
+companies.
+◦ Implemented Certification Management, allowing creation of certificates, exams, learning resources, and progress
+tracking.
+◦ Integrated Social Media platforms to enable publishing Inlynk content to external platforms directly.
+◦ Built customizable Meetings & Webinar modules supporting recurring meetings, speaker management, polls, and
+surveys.
+◦ Developed Deal Registration, Business Prospects, and Contract Management features for lead tracking and secure
+document workflows.
+◦ Designed Dashboards with analytics for tracking users, connected companies, storage, device usage, and application
+engagement.
+◦ Implemented an Employee Management system for profile updates, role assignment, and streamlined administrative
+controls.
+◦ Led frontend performance optimization, achieving Lighthouse scores of 90+, enhancing speed and accessibility.
+◦ Integrated REST APIs and optimized state management for scalable, maintainable frontend solutions.
+◦ Ensured cross-browser compatibility and responsive design across all modules.
+◦ Mentored junior developers on React best practices and performance debugging.
+◦ Actively collaborated with UI/UX teams to translate complex designs into interactive, user-friendly interfaces.
+◦ Participated in code reviews and agile processes to maintain high development standards.
+• People Link Unified Communications Pvt. Ltd.
+Software Intern
+Hyderabad, India
+July 2022– June 2023
+◦ Contributed to frontend development of Inlynk platform, building production-grade components using React,
+JavaScript, and MUI.
+◦ Assisted with state management, bug fixing, and UI enhancements to improve stability and usability.
+Education
+• GLA University
+Bachelor of Technology– Computer Science & Engineering; CPI: 7.86
+• Laxmi Public School
+Intermediate (12th Grade); Percentage: 78.6%
+• Laxmi Public School
+High School (10th Grade); Percentage: 76%
+Additional Information
+Mathura, India
+Aug 2019– May 2023
+Mughalsarai, India
+2018
+Mughalsarai, India
+2016
+• Career Preferences: Open to relocation for suitable opportunities
+• Passion: Building performant, user-centric web applications
+• Learning: Actively improving knowledge of modern web technologies and best practices
+• Languages: English, Hindi
