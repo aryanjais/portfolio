@@ -2,11 +2,11 @@
 
 A creative, dark-mode portfolio website built to showcase my work as a Frontend Developer. The site features a modern design, smooth animations, and a responsive layout.
 
-![Portfolio Preview](https://via.placeholder.com/1200x630/0f172a/8b5cf6?text=Portfolio+Preview)
+<!-- ![Portfolio Preview](https://via.placeholder.com/1200x630/0f172a/8b5cf6?text=Portfolio+Preview) -->
 
 ## 🚀 Live Demo
 
-[Link to Live Demo](https://aryan-portfolio.vercel.app/) *(Add your Vercel link here)*
+[Link to Live Demo](https://aryanjais.github.io/portfolio/)
 
 ## ✨ Features
 
