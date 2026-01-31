@@ -1,73 +1,72 @@
-# React + TypeScript + Vite
+# Aryan Jaiswal - Frontend Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A creative, dark-mode portfolio website built to showcase my work as a Frontend Developer. The site features a modern design, smooth animations, and a responsive layout.
 
-Currently, two official plugins are available:
+![Portfolio Preview](https://via.placeholder.com/1200x630/0f172a/8b5cf6?text=Portfolio+Preview)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+[Link to Live Demo](https://aryan-portfolio.vercel.app/) *(Add your Vercel link here)*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Modern Dark UI**: Sleek dark mode design with neon accents (Purple/Cyan).
+- **Interactive Animations**: Powered by [Framer Motion](https://www.framer.com/motion/) for scroll reveals and hover effects.
+- **Responsive Layout**: Fully optimized for Mobile, Tablet, and Desktop.
+- **Experience Timeline**: Visual timeline showcasing my professional journey.
+- **Project Showcase**: Highlighted feature cards for proprietary work (Inlynk Platform).
+- **Contact Form**: Integrated contact section with social links.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🛠️ Tech Stack
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- **Frontend**: [React](https://react.dev/) (Vite), [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## 📦 Installation & Setup
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/aryanjais/portfolio.git
+   cd portfolio
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
+
+## 📂 Project Structure
+
+```
+src/
+├── components/       # Reusable UI components (Hero, About, Projects, etc.)
+├── assets/          # Static assets
+├── App.tsx          # Main application component
+├── index.css        # Global styles & Tailwind configuration
+└── main.tsx         # Entry point
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 👨‍💻 Author
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+**Aryan Jaiswal**  
+Frontend Developer based in Hyderabad, India.  
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- [GitHub](https://github.com/aryanjais)
+- [LinkedIn](https://www.linkedin.com/in/aryanjais)
+- [Email](mailto:aryanj9889@gmail.com)
+
+---
+
+&copy; 2026 Aryan Jaiswal. All rights reserved.
