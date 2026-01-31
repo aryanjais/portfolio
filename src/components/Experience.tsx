@@ -5,7 +5,7 @@ import { Calendar } from 'lucide-react';
 
 const experiences = [
   {
-    company: "PeopleLink Unified Communications Pvt. Ltd.",
+    company: "InstaVC Technologies Pvt. Ltd.",
     role: "Associate Software Engineer",
     period: "July 2023 – January 2026",
     location: "Hyderabad, India",

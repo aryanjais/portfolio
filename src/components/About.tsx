@@ -17,7 +17,7 @@ const About: FC = () => {
                   My journey involves building responsive, high-performance web applications using the latest technologies.
                 </p>
                 <p>
-                  Currently, I work at <span className="text-white font-medium">PeopleLink Unified Communications</span>, where I've contributed to scalable platforms like Inlynk. 
+                  Currently, I work at <span className="text-white font-medium">Instavc technologies pvt ltd</span>, where I've contributed to scalable platforms like Inlynk. 
                   I specialize in translating complex UX designs into interactive, scalable interfaces, ensuring top-notch performance and accessibility.
                 </p>
                 <p>
@@ -27,12 +27,12 @@ const About: FC = () => {
 
               <div className="mt-8 flex gap-8">
                  <div>
-                    <h4 className="text-4xl font-bold text-white mb-2">2+</h4>
+                    <h4 className="text-4xl font-bold text-white mb-2">3+</h4>
                     <span className="text-slate-500">Years Exp.</span>
                  </div>
                  <div>
                     <h4 className="text-4xl font-bold text-white mb-2">10+</h4>
-                    <span className="text-slate-500">Projects</span>
+                    <span className="text-slate-500">Modules</span>
                  </div>
               </div>
            </div>

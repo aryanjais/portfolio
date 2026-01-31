@@ -6,7 +6,7 @@ const Contact: FC = () => {
   return (
     <section id="contact" className="py-20 bg-slate-950 relative overflow-hidden">
        {/* Accents */}
-      <div className="absolute -left-20 bottom-0 w-[500px] h-[500px] bg-primary/5 rounded-full blur-[100px]" />
+      <div className="absolute -left-20 bottom-0 w-[500px] h-[500px] bg-primary/5 rounded-full blur-[100px] pointer-events-none" />
 
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12">
          <div>
@@ -34,7 +34,7 @@ const Contact: FC = () => {
                   </div>
                   <div>
                      <p className="text-sm text-slate-500">Mobile</p>
-                     <span className="font-medium hover:text-white transition-colors">+91-979-551-1838</span>
+                     <span className="font-medium hover:text-white transition-colors">+91-9795511838</span>
                   </div>
                </div>
 
@@ -59,7 +59,7 @@ const Contact: FC = () => {
             </div>
          </div>
 
-         <div className="bg-slate-900 p-8 rounded-2xl border border-slate-800">
+         {/* <div className="bg-slate-900 p-8 rounded-2xl border border-slate-800">
             <form className="space-y-6" onSubmit={(e) => e.preventDefault()}>
                <div>
                   <label htmlFor="name" className="block text-sm font-medium text-slate-400 mb-2">Name</label>
@@ -77,7 +77,7 @@ const Contact: FC = () => {
                   Send Message <Send size={18} />
                </button>
             </form>
-         </div>
+         </div> */}
       </div>
     </section>
   );
