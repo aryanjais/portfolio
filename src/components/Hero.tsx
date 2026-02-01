@@ -77,7 +77,7 @@ const Hero: FC = () => {
                       <span className="text-blue-400">skills</span>: <span className="text-yellow-400">[</span>
                    </div>
                    <div className="pl-12 text-green-400">
-                      "React", "TypeScript", "Tailwind"
+                      "React", "TypeScript", "Javascript", "Redux", "Hooks", "HTML5", "CSS3"
                    </div>
                    <div className="pl-6 text-yellow-400">]</div>
                    <div className="text-slate-200">{`}`}</div>

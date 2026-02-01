@@ -7,26 +7,47 @@ const experiences = [
   {
     company: "InstaVC Technologies Pvt. Ltd.",
     role: "Associate Software Engineer",
-    period: "July 2023 – January 2026",
+    period: "July 2023 - January 2026",
     location: "Hyderabad, India",
-    description: "Spearheaded the frontend development of the Inlynk platform, ensuring scalability and performance.",
+    description: "Lead the frontend development of the Inlynk platform, ensuring scalability and performance.",
     achievements: [
-        "Developed scalable web apps using React, TypeScript, MUI, and Firebase.",
-        "Implemented Real-time Collaboration Tools including messaging and video calls.",
-        "Optimized frontend performance, achieving Lighthouse scores of 90+.",
-        "Mentored junior developers on React best practices."
+        // "Developed scalable web apps using React, TypeScript, MUI, and Firebase.",
+        // "Implemented Real-time Collaboration Tools including messaging and video calls.",
+        // "Optimized frontend performance, achieving Lighthouse scores of 90+.",
+        // "Mentored junior developers on React best practices."
+        'Developed and maintained scalable web applications for Inlynk, a Business Growth & Employee Management Platform using React, TypeScript, MUI, and Firebase.',
+        'Designed and implemented News Feed with social engagement features, post scheduling, and filtering for content from connections.',
+        'Built real-time Collaboration Tools including messaging, voice/video calls, chat filtering, mute, block/unblock, and broadcast functionality.',
+        'Created a Media Drive system with file management, folder structure, sharing, zipping, and white-label template creation.',
+        'Developed a Resource Library for sharing multimedia content such as videos, articles, podcasts across connected companies.',
+        'Implemented Certification Management, allowing creation of certificates, exams, learning resources, and progress tracking.',
+        'Integrated Social Media platforms to enable publishing Inlynk content to external platforms directly.',
+        'Built customizable Meetings & Webinar modules supporting recurring meetings, speaker management, polls, and surveys.',
+        'Developed Deal Registration, Business Prospects, and Contract Management features for lead tracking and secure document workflows.',
+        'Designed Dashboards with analytics for tracking users, connected companies, storage, device usage, and application engagement.',
+        'Implemented an Employee Management system for profile updates, role assignment, and streamlined administrative controls.',
+        'Led frontend performance optimization, achieving Lighthouse scores of 90+, enhancing speed and accessibility.',
+        'Integrated REST APIs and optimized state management for scalable, maintainable frontend solutions.',
+        'Ensured cross-browser compatibility and responsive design across all modules.',
+        'Mentored junior developers on React best practices and performance debugging.',
+        'Actively collaborated with UI/UX teams to translate complex designs into interactive, user-friendly interfaces.',
+        'Participated in code reviews and agile processes to maintain high development standards.'
     ]
   },
   {
     company: "PeopleLink Unified Communications Pvt. Ltd.",
     role: "Software Intern",
-    period: "July 2022 – June 2023",
+    period: "July 2022 - June 2023",
     location: "Hyderabad, India",
     description: "Contributed to internal tools and the initial phase of the Inlynk platform.",
     achievements: [
-        "Built production-grade components using React and MUI.",
-        "Assisted with state management and bug fixing.",
-        "Collaborated with UI/UX teams for interface implementation."
+        // "Built production-grade components using React and MUI.",
+        // "Assisted with state management and bug fixing.",
+        // "Collaborated with UI/UX teams for interface implementation."
+        'Contributed to frontend development of Inlynk platform, building production-grade components using React,JavaScript, and MUI.',
+        'Assisted with state management, bug fixing, and UI enhancements to improve stability and usability.',
+        'Collaborated with UI/UX teams for interface implementation.'
+
     ]
   }
 ];
