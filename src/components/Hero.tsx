@@ -37,7 +37,7 @@ const Hero: FC = () => {
               View Work <ArrowRight size={18} />
             </a>
             <a 
-              href="/resume.pdf" 
+              href="/portfolio/resume.pdf" 
               target="_blank"
               className="px-6 py-3 bg-slate-800 hover:bg-slate-700 text-white font-medium rounded-lg transition-colors flex items-center gap-2 border border-slate-700"
             >
